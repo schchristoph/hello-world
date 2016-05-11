@@ -73,3 +73,10 @@ var restzahlB:Double = 1.23
 var restergebnis = restzahlA % restzahlB
 restergebnis = restzahlA % restzahlA
 restergebnis = restzahlB % restzahlB
+
+//Rechnen mit Klammern
+//Variable Ergebnis wird einfach "überschrieben"
+ergebnis = (2 + 2) * 2
+ergebnis = 2 + 2 * 2
+
+ergebnis = (x / y) * x
