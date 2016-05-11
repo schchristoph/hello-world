@@ -84,3 +84,10 @@ ergebnis = y * y * y * x * x
 ergebnis = 1 + 1
 ergebnis
 ergebnis + ergebnis
+
+//Uebungen zur Funktion prin()
+//Die Debugarea kann über "View" --> "Debugarea" angezeigt werden
+//Dabei handelt es sich um das Feld unterhalb der Eingabe hier
+print("Mein Name ist Christoph!")
+print("Das ist die zweite Zeile.\t", terminator: "")
+print("Das ist weiterhin die zweite Zeile.")
