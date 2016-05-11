@@ -58,3 +58,18 @@ ergebnis = x * y
 //division
 
 ergebnis = x / y
+
+
+//Division mit Double, Gleitkommazahlen
+var kommazahlA:Double = 2.5
+var kommazahlB:Double = 5.0
+
+var kommaergebnis = kommazahlA / kommazahlB
+
+//Rest einer Division ermitteln
+var restzahlA:Double = 2.34
+var restzahlB:Double = 1.23
+
+var restergebnis = restzahlA % restzahlB
+restergebnis = restzahlA % restzahlA
+restergebnis = restzahlB % restzahlB
