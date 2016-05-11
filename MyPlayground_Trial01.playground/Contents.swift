@@ -80,3 +80,4 @@ ergebnis = (2 + 2) * 2
 ergebnis = 2 + 2 * 2
 
 ergebnis = (x / y) * x
+ergebnis = y * y * y * x * x
