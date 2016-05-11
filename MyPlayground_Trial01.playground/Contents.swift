@@ -1,5 +1,5 @@
 //: Playground - noun: a place where people can play
-//edit for testing github
+//edit for testing github :)
 
 import Cocoa
 
