@@ -91,3 +91,21 @@ ergebnis + ergebnis
 print("Mein Name ist Christoph!")
 print("Das ist die zweite Zeile.\t", terminator: "")
 print("Das ist weiterhin die zweite Zeile.")
+
+//Variabeln in print-Funktion kombinieren
+var vorname = "Christoph "
+var nachname = "Schulz"
+print(vorname + nachname)
+
+//Kombination von string und nummern
+var str = "Willkommen zum Kapitel: "
+var num = 5
+
+print("\(str)\(num)")
+
+var string001:String = "Testtext zum Test mit Text "
+var number001:Int = 5
+var number002:Double = 5.555
+
+//Ausgabe der oberhalb definierten Variabeln
+print("\(string001)\(number001)\(number002)")
