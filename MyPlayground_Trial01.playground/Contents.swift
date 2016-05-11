@@ -40,3 +40,21 @@ var gleitkommazahlDatentyp:Float = 12.2234
 var piDatentyp:Double = 3.141597
 
 //Rechnen mit Zahlen
+//Addition
+
+var x = 12
+var y = 6
+
+var ergebnis = x + y
+
+//subtraktion
+
+ergebnis = x - y
+
+//multiplikation
+
+ergebnis = x * y
+
+//division
+
+ergebnis = x / y
