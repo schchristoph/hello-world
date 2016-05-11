@@ -39,6 +39,4 @@ var ganzzahlDatentyp:Int = 123
 var gleitkommazahlDatentyp:Float = 12.2234
 var piDatentyp:Double = 3.141597
 
-
-//Testklasse erstellen
-//var christoph:Personen = "Christoph"
+//Rechnen mit Zahlen
